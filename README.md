@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15660520&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 timely delivery is crucial since it ensures that customer satisisfaction is met and this ensures truthworthness and credibility. it also ensures that extra resources and costs are not incurred. To ensure deadlines are met project managers can ensure there is proper and realistic planning before hand, ensure that there is effective communication between them and the customers, ensure that all team members are involved in the project and ensure there is tracking and monitoring to see how far the project is.
